@@ -51,6 +51,8 @@ NOTAS: Con soporte, 20-100% relleno, 1h 30Min aprox.
 
 [Guia filamento inferior con Coginete 2] https://www.thingiverse.com/thing:3129612    
 
+[Apoya Rascleta] https://www.thingiverse.com/thing:4689265
+
 
 #### Otras mejoras
 
