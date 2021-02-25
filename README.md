@@ -30,6 +30,10 @@ NOTAS: Sin soporte, 20-80% relleno, 3h aprox.
 Mejora la entrada del hilo quitando tensión al extrusor.  
 NOTAS: Sin soporte, 20-80% relleno, 1h. 
 
+[Soporte Fuente Alimentación] https://www.thingiverse.com/thing:3023240    
+Reduce las vibraciones de la maquina.  
+NOTAS: Sin soporte, 20-80% relleno, 1h 20min.   
+
 Mejoras esteticas:  
 
 [Grapa para cable plano] https://www.thingiverse.com/thing:2960375    
@@ -42,10 +46,11 @@ NOTAS: Sin soporte, 20-100% relleno, 16h aprox.
 [Tapa rail Eje Y] http://www.thingiverse.com/thing:3330758   
 NOTAS: Con soporte, 20-100% relleno, 1h 30Min aprox.  
 
+[TSoporte Herramientas] https://www.thingiverse.com/thing:2886395  
+NOTAS: Sin soporte, 30% relleno, 1h 20Min aprox.   
 
-### Mejoras por provar
 
-[Soporte Fuente Alimentación] https://www.thingiverse.com/thing:3023240     
+### Mejoras por provar 
 
 [Grapa para Alimentación XT60] https://www.thingiverse.com/thing:3366250     
 
