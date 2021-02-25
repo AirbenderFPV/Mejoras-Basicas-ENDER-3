@@ -10,7 +10,11 @@ Mejoras funcionales:
 
 [Tapa Ventilador Electronica] https://www.thingiverse.com/thing:2935204   
 Evita que entre polvo en la parte de la electronica.  
-NOTAS: Sin soporte, 20-80% relleno, 5h.  
+NOTAS: Sin soporte, 20-80% relleno, 5h.
+
+[Tapa Ventilador Fuente] https://www.thingiverse.com/thing:3328495  
+Evita que entre polvo en la parte de la fuente y reduce el ruido del ventilador.  
+NOTAS: Sin soporte, 20-80% relleno, 5h.
 
 [Ventilador Extrusor PRO] https://www.thingiverse.com/thing:4369859    
 Mejora notablemente la ventilación de la pieza y facilita la limpieza de los ventiladores.  
