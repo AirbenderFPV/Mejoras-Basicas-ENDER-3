@@ -46,8 +46,11 @@ NOTAS: Sin soporte, 20-100% relleno, 16h aprox.
 [Tapa rail Eje Y] http://www.thingiverse.com/thing:3330758   
 NOTAS: Con soporte, 20-100% relleno, 1h 30Min aprox.  
 
-[TSoporte Herramientas] https://www.thingiverse.com/thing:2886395  
-NOTAS: Sin soporte, 30% relleno, 1h 20Min aprox.   
+[TSoporte Herramientas] https://www.thingiverse.com/thing:2886395    
+NOTAS: Con soporte, 30% relleno, 1h 20Min aprox.    
+
+[TSoporte Herramientas] https://www.thingiverse.com/thing:3348125   
+NOTAS: Con soporte, 30% relleno, 4h aprox.  
 
 
 ### Mejoras por provar 
