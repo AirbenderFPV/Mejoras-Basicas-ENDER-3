@@ -40,8 +40,17 @@ NOTAS: Sin soporte, 20-80% relleno, 1h 20min.
 
 Mejoras esteticas:  
 
-[Grapa para cable plano] https://www.thingiverse.com/thing:2960375    
-NOTAS: Sin soporte, 20-100% relleno, 5Min aprox.    
+[Grapa para cable plano] https://www.thingiverse.com/thing:2960375  
+Ideal para ser la primera impresion de tu impresora.  
+NOTAS: Sin soporte, 20-100% relleno, 5Min aprox.
+
+[Grapa PRO para cable plano] https://www.thingiverse.com/thing:3419155  
+Mucho mejor que la grapa anterior.  
+NOTAS: Sin soporte, 20-100% relleno, xMin aprox.
+
+[Carcasa pantalla trasera] https://www.thingiverse.com/thing:2858209 
+Evita que entre el polvo a las conexiones de detras de la pantalla.  
+NOTAS: Sin soporte, 20-100% relleno, xMin aprox.
 
 [Cadena Guia Cables] https://www.thingiverse.com/thing:3769941  
 Esteticamente queda muy bien, ayuda a prevenir posibles enredos en los cables.  
@@ -50,11 +59,14 @@ NOTAS: Sin soporte, 20-100% relleno, 16h aprox.
 [Tapa rail Eje Y] http://www.thingiverse.com/thing:3330758   
 NOTAS: Con soporte, 20-100% relleno, 1h 30Min aprox.  
 
-[TSoporte Herramientas] https://www.thingiverse.com/thing:2886395    
+[Soporte Herramientas] https://www.thingiverse.com/thing:2886395    
 NOTAS: Con soporte, 30% relleno, 1h 20Min aprox.    
 
-[TSoporte Herramientas] https://www.thingiverse.com/thing:3348125   
+[Soporte Herramientas] https://www.thingiverse.com/thing:3348125   
 NOTAS: Con soporte, 30% relleno, 4h aprox.  
+
+[Soporte Espatula] https://www.thingiverse.com/thing:3094723    
+NOTAS: Con soporte, 30% relleno, Xmin aprox. 
 
 
 ### Mejoras por provar 
